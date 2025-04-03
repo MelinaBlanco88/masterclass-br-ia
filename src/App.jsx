@@ -27,13 +27,13 @@ function App() {
   const benefits = [
     {
       icon: <ChatBubbleBottomCenterTextIcon className="w-8 h-8" />,
-      title: "ChatGPT para Inmobiliarios",
-      description: "Crea descripciones cautivadoras y responde leads en segundos"
+      title: "ChatGPT de 0 a 100",
+      description: "Aprende a crear prompts en segundos"
     },
     {
       icon: <ClockIcon className="w-8 h-8" />,
       title: "Automatización Inteligente",
-      description: "Ahorra horas de trabajo con herramientas como Make"
+      description: "Ahorra horas de trabajo con herramientas como Make y ManyChat"
     },
     {
       icon: <ChartBarIcon className="w-8 h-8" />,
@@ -47,13 +47,13 @@ function App() {
     },
     {
       icon: <RocketLaunchIcon className="w-8 h-8" />,
-      title: "Escalabilidad",
-      description: "Moderniza tu agencia y destácate en el mercado"
+      title: "Agentes IA",
+      description: "Agentes de IA expertos en mercado inmobiliario que te ayudarán a tomar mejores decisiones"
     },
     {
       icon: <LightBulbIcon className="w-8 h-8" />,
-      title: "Casos de Éxito",
-      description: "Aprende de historias reales de IA en bienes raíces"
+      title: "Casos de uso",
+      description: "Conoce todas las posibilidades que tienes de implementar IA en tu negocio"
     }
   ];
 
@@ -294,16 +294,18 @@ function App() {
               className="bg-white/5 backdrop-blur-lg rounded-xl p-8"
             >
               <img 
-                src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=400" 
+                src="https://static-media.hotmart.com/Zvgj79xBCZBzV_eKaoi74wlWgXA=/filters:quality(100)/klickart-prod/uploads/media/file/9219154/replicate-prediction-t5e9wjacs9rj20cm4zp8b9mbpr-1.webp" 
                 alt="Melina Blanco"
                 className="w-48 h-48 rounded-full mx-auto mb-6 object-cover"
               />
               <h3 className="text-2xl font-bold text-center mb-2">Melina Blanco</h3>
               <h4 className="text-[#C1ED0B] text-center mb-4">Experta en IA y Automatización</h4>
               <p className="text-gray-300">
-                Experta en Inteligencia Artificial aplicada a negocios, automatización y desarrollo de productos digitales. 
-                Con una sólida trayectoria como desarrolladora front-end y especialista en experiencia de usuario (UX), 
-                ha guiado a emprendedores y empresas a integrar la IA de manera práctica y estratégica en sus procesos clave.
+                Experta en Inteligencia Artificial aplicada a negocios, automatización y desarrollo de productos digitales. Con una sólida trayectoria como desarrolladora front-end y especialista en experiencia de usuario (UX), ha guiado a emprendedores y empresas a integrar la IA de forma práctica y estratégica en sus procesos clave.
+              </p>
+              <p className="text-gray-300">
+                Apasionada por la innovación, Melina ha desarrollado su propio enfoque de enseñanza y creación de contenido, combinando tecnología, diseño y automatización inteligente. 
+                Su estilo directo, claro y creativo la ha convertido en una referente para quienes buscan escalar sus negocios con inteligencia.
               </p>
             </motion.div>
 
@@ -314,16 +316,18 @@ function App() {
               className="bg-white/5 backdrop-blur-lg rounded-xl p-8"
             >
               <img 
-                src="https://images.unsplash.com/photo-1580894732444-8ecded7900cd?auto=format&fit=crop&q=80&w=400" 
+                src="https://static-media.hotmart.com/VKJfmdsktVt34QVxYO3mOYaAJ3g=/filters:quality(100)/klickart-prod/uploads/media/file/9219433/compressed_image_4.jpg" 
                 alt="Mariana Padilla"
                 className="w-48 h-48 rounded-full mx-auto mb-6 object-cover"
               />
               <h3 className="text-2xl font-bold text-center mb-2">Mariana Padilla</h3>
-              <h4 className="text-[#C1ED0B] text-center mb-4">Emprendedora y Conferencista Internacional</h4>
+              <h4 className="text-[#C1ED0B] text-center mb-4">Empresaria y conferencista internacional</h4>
               <p className="text-gray-300">
-                Reconocida emprendedora y conferencista internacional, especializada en inversiones inmobiliarias, 
-                inteligencia empresarial y financiera. Creadora de la metodología TOPP, diseñada para potenciar 
-                la toma de decisiones estratégicas.
+                Reconocida empresaria y conferencista internacional, especialista en inversiones inmobiliarias, inteligencia empresarial y financiera. Es creadora de la metodología TOPP, diseñada para potenciar la toma de decisiones estratégicas. 
+                Ha compartido su experiencia en escenarios de países como Dubái, Panamá, Colombia, Perú, Estados Unidos y México, así como en universidades de prestigio como el TEC de Monterrey, Ibero y Anáhuac.
+              </p>
+              <p className="text-gray-300">
+                Autora del <b>triple best seller en Amazon «El producto no importa»</b>, Mariana ha asesorado a cientos de empresarios y ejecutivos, ayudándolos a invertir con visión, liderar con propósito y desarrollar negocios más inteligentes.
               </p>
             </motion.div>
           </div>
