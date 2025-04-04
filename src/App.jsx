@@ -43,17 +43,17 @@ function App() {
     },
     {
       icon: <DocumentTextIcon className="w-8 h-8" />,
-      title: "Recursos Listos para Usar",
-      description: "Templates y workflows para implementación inmediata."
+      title: "Acceso a recursos que te harán escalar más rápido",
+      description: "Te llevarás plantillas, prompts y herramientas listas para usar que te ahorrarán semanas de trabajo."
     },
     {
       icon: <LightBulbIcon className="w-8 h-8" />,
-      title: "Cómo crear tu primera automatización inmobiliaria en 10 minutos",
+      title: "Crea tu primera automatización inmobiliaria en 10 minutos",
       description: "No es solo teoría: vas a ver cómo se hace, paso a paso. Y lo mejor: ¡vas a hacerlo tú también!"
     },
     {
       icon: <RocketLaunchIcon className="w-8 h-8" />,
-      title: "Bonus: Agentes IA listos para usar!",
+      title: "Bonus: Agentes IA ¡listos para usar!",
       description: "Agentes de IA expertos en mercado inmobiliario que te ayudarán a tomar mejores decisiones."
     }
   ];
@@ -321,11 +321,11 @@ function App() {
                 Su estilo directo, claro y creativo la ha convertido en una referente para quienes buscan escalar sus negocios con inteligencia.
               </p>
               <div className="flex justify-center space-x-4">
-                <a href="https://instagram.com/melina" target="_blank" rel="noopener noreferrer" 
+                <a href="https://www.instagram.com/meliwhite_8/" target="_blank" rel="noopener noreferrer" 
                    className="text-white hover:text-[#C1ED0B] transition-colors">
                   <FaInstagram className="w-6 h-6" />
                 </a>
-                <a href="https://linkedin.com/in/melina" target="_blank" rel="noopener noreferrer"
+                <a href="https://www.linkedin.com/in/melinablanco88/" target="_blank" rel="noopener noreferrer"
                    className="text-white hover:text-[#C1ED0B] transition-colors">
                   <FaLinkedin className="w-6 h-6" />
                 </a>
@@ -353,11 +353,11 @@ function App() {
                 <b>Autora</b> del <b>triple best seller en Amazon «El producto no importa»</b>, Mariana ha asesorado a cientos de empresarios y ejecutivos, ayudándolos a invertir con visión, liderar con propósito y desarrollar negocios más inteligentes.
               </p>
               <div className="flex justify-center space-x-4">
-                <a href="https://instagram.com/mariana" target="_blank" rel="noopener noreferrer"
+                <a href="https://www.instagram.com/marianapadillatop/" target="_blank" rel="noopener noreferrer"
                    className="text-white hover:text-[#C1ED0B] transition-colors">
                   <FaInstagram className="w-6 h-6" />
                 </a>
-                <a href="https://linkedin.com/in/mariana" target="_blank" rel="noopener noreferrer"
+                <a href="https://www.linkedin.com/in/marianapadilla/" target="_blank" rel="noopener noreferrer"
                    className="text-white hover:text-[#C1ED0B] transition-colors">
                   <FaLinkedin className="w-6 h-6" />
                 </a>
