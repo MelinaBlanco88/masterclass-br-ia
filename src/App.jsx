@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import Countdown from 'react-countdown';
 import { useInView } from 'react-intersection-observer';
+import { FaInstagram, FaLinkedin } from 'react-icons/fa';
 import {
   ChartBarIcon,
   ChatBubbleBottomCenterTextIcon,
@@ -81,7 +82,7 @@ function App() {
   const faqs = [
     {
       q: "¿Necesito experiencia previa en IA?",
-      a: "No, el masterclass está diseñado para todos los niveles. Comenzaremos desde lo básico hasta aplicaciones avanzadas. Te guiaremos paso a paso en la implementación de cada herramienta."
+      a: "No, la masterclass está diseñado para todos los niveles. Comenzaremos desde lo básico hasta aplicaciones avanzadas. Te guiaremos paso a paso en la implementación de cada herramienta."
     },
     {
       q: "¿Tendré acceso a la grabación?",
@@ -172,6 +173,17 @@ function App() {
       {/* Video Preview Section */}
       <section className="py-32 bg-gradient-to-b from-gray-900 to-black relative">
         <div className="container mx-auto px-4">
+        <div className="max-w-4xl mx-auto text-center">
+            <h2 className="text-4xl md:text-5xl font-bold mb-8 bg-gradient-to-r from-[#C1ED0B] to-[#9333ea] text-transparent bg-clip-text">
+              La Revolución de la IA en el Sector Inmobiliario
+            </h2>
+            <p className="text-xl text-gray-300 mb-12">
+              La inteligencia artificial está transformando la manera en que operamos en el mercado inmobiliario. 
+              Desde la automatización de tareas hasta la predicción de tendencias del mercado, 
+              la IA es la herramienta que necesitas para destacarte en la industria.
+            </p>
+
+          </div>
           <div className="relative max-w-4xl mx-auto aspect-video rounded-2xl overflow-hidden shadow-2xl">
             <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1700516598140-c47b815c2e8e')] bg-cover bg-center">
               <div className="absolute inset-0 bg-black/50 backdrop-blur-sm" />
@@ -283,7 +295,7 @@ function App() {
       <section className="py-32 bg-gradient-to-b from-black to-gray-900">
         <div className="container mx-auto px-4">
           <h2 className="text-4xl md:text-5xl font-bold text-center mb-16 bg-gradient-to-r from-[#C1ED0B] to-[#9333ea] text-transparent bg-clip-text">
-            Conoce a Tus Mentoras
+            Speakers
           </h2>
 
           <div className="grid md:grid-cols-2 gap-12">
@@ -301,12 +313,23 @@ function App() {
               <h3 className="text-2xl font-bold text-center mb-2">Melina Blanco</h3>
               <h4 className="text-[#C1ED0B] text-center mb-4">Experta en IA y Automatización</h4>
               <p className="text-gray-300">
-                Experta en Inteligencia Artificial aplicada a negocios, automatización y desarrollo de productos digitales. Con una sólida trayectoria como desarrolladora front-end y especialista en experiencia de usuario (UX), ha guiado a emprendedores y empresas a integrar la IA de forma práctica y estratégica en sus procesos clave.
+                <b>Experta en Inteligencia Artificial</b> aplicada a negocios, automatización y desarrollo de productos digitales. 
+                Con una sólida trayectoria como desarrolladora front-end y especialista en experiencia de usuario (UX), ha guiado a emprendedores y empresas a <b>integrar la IA de forma práctica y estratégica</b> en sus procesos clave.
               </p>
               <p className="text-gray-300">
                 Apasionada por la innovación, Melina ha desarrollado su propio enfoque de enseñanza y creación de contenido, combinando tecnología, diseño y automatización inteligente. 
                 Su estilo directo, claro y creativo la ha convertido en una referente para quienes buscan escalar sus negocios con inteligencia.
               </p>
+              <div className="flex justify-center space-x-4">
+                <a href="https://instagram.com/melina" target="_blank" rel="noopener noreferrer" 
+                   className="text-white hover:text-[#C1ED0B] transition-colors">
+                  <FaInstagram className="w-6 h-6" />
+                </a>
+                <a href="https://linkedin.com/in/melina" target="_blank" rel="noopener noreferrer"
+                   className="text-white hover:text-[#C1ED0B] transition-colors">
+                  <FaLinkedin className="w-6 h-6" />
+                </a>
+              </div>
             </motion.div>
 
             <motion.div
@@ -323,12 +346,22 @@ function App() {
               <h3 className="text-2xl font-bold text-center mb-2">Mariana Padilla</h3>
               <h4 className="text-[#C1ED0B] text-center mb-4">Empresaria y conferencista internacional</h4>
               <p className="text-gray-300">
-                Reconocida empresaria y conferencista internacional, especialista en inversiones inmobiliarias, inteligencia empresarial y financiera. Es creadora de la metodología TOPP, diseñada para potenciar la toma de decisiones estratégicas. 
+                Reconocida <b>empresaria y conferencista internacional</b>, especialista en inversiones inmobiliarias, inteligencia empresarial y financiera. Es creadora de la metodología TOPP, diseñada para potenciar la toma de decisiones estratégicas. 
                 Ha compartido su experiencia en escenarios de países como Dubái, Panamá, Colombia, Perú, Estados Unidos y México, así como en universidades de prestigio como el TEC de Monterrey, Ibero y Anáhuac.
               </p>
               <p className="text-gray-300">
-                Autora del <b>triple best seller en Amazon «El producto no importa»</b>, Mariana ha asesorado a cientos de empresarios y ejecutivos, ayudándolos a invertir con visión, liderar con propósito y desarrollar negocios más inteligentes.
+                <b>Autora</b> del <b>triple best seller en Amazon «El producto no importa»</b>, Mariana ha asesorado a cientos de empresarios y ejecutivos, ayudándolos a invertir con visión, liderar con propósito y desarrollar negocios más inteligentes.
               </p>
+              <div className="flex justify-center space-x-4">
+                <a href="https://instagram.com/mariana" target="_blank" rel="noopener noreferrer"
+                   className="text-white hover:text-[#C1ED0B] transition-colors">
+                  <FaInstagram className="w-6 h-6" />
+                </a>
+                <a href="https://linkedin.com/in/mariana" target="_blank" rel="noopener noreferrer"
+                   className="text-white hover:text-[#C1ED0B] transition-colors">
+                  <FaLinkedin className="w-6 h-6" />
+                </a>
+              </div>
             </motion.div>
           </div>
         </div>
