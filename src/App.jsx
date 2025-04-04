@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import Countdown from 'react-countdown';
 import { useInView } from 'react-intersection-observer';
-import { FaInstagram, FaLinkedin } from 'react-icons/fa';
+import { FaInstagram, FaLinkedin, FaYoutube } from 'react-icons/fa';
 import {
   ChartBarIcon,
   ChatBubbleBottomCenterTextIcon,
@@ -329,6 +329,10 @@ function App() {
                    className="text-white hover:text-[#C1ED0B] transition-colors">
                   <FaLinkedin className="w-6 h-6" />
                 </a>
+                <a href="https://www.youtube.com/@MeliWhite-8" target="_blank" rel="noopener noreferrer"
+                   className="text-white hover:text-[#C1ED0B] transition-colors">
+                  <FaYoutube className="w-6 h-6" />
+                </a>
               </div>
             </motion.div>
 
@@ -360,6 +364,10 @@ function App() {
                 <a href="https://www.linkedin.com/in/marianapadilla/" target="_blank" rel="noopener noreferrer"
                    className="text-white hover:text-[#C1ED0B] transition-colors">
                   <FaLinkedin className="w-6 h-6" />
+                </a>
+                <a href="https://www.youtube.com/@marianapadillatop" target="_blank" rel="noopener noreferrer"
+                   className="text-white hover:text-[#C1ED0B] transition-colors">
+                  <FaYoutube className="w-6 h-6" />
                 </a>
               </div>
             </motion.div>
@@ -422,7 +430,7 @@ function App() {
       </section>
 
       <a 
-        href="https://wa.me/+1234567890" 
+        href="https://wa.me/+525574766664" 
         className="fixed bottom-8 right-8 bg-[#25D366] text-white px-6 py-4 rounded-full flex items-center gap-2 hover:scale-105 transition-all duration-300 shadow-lg z-50"
         target="_blank"
         rel="noopener noreferrer"
