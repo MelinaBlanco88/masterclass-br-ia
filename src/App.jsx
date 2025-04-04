@@ -28,33 +28,33 @@ function App() {
   const benefits = [
     {
       icon: <ChatBubbleBottomCenterTextIcon className="w-8 h-8" />,
-      title: "ChatGPT de 0 a 100",
-      description: "Aprende a crear prompts en segundos"
+      title: "Domina ChatGPT sin ser técnico",
+      description: "Descubre los conceptos clave ChatGPT de manera simple, para que puedas aplicarlos en tu negocio inmobiliario sin complicaciones."
     },
     {
       icon: <ClockIcon className="w-8 h-8" />,
-      title: "Automatización Inteligente",
-      description: "Ahorra horas de trabajo con herramientas como Make y ManyChat"
+      title: "Las herramientas exactas que están revolucionando el mercado",
+      description: "Te mostraré las mejores herramientas de automatización, prompts y flujos listos para copiar y pegar. Menos trabajo, más resultados."
     },
     {
       icon: <ChartBarIcon className="w-8 h-8" />,
-      title: "Análisis Predictivo",
-      description: "Toma mejores decisiones analizando datos del mercado"
+      title: "Aplicaciones REALES para agentes y emprendedores inmobiliarios",
+      description: "Aprende cómo usar la IA para atraer leads, mejorar tus cierres y ofrecer un servicio al cliente que parece de otro planeta."
     },
     {
       icon: <DocumentTextIcon className="w-8 h-8" />,
       title: "Recursos Listos para Usar",
-      description: "Templates y workflows para implementación inmediata"
-    },
-    {
-      icon: <RocketLaunchIcon className="w-8 h-8" />,
-      title: "Agentes IA",
-      description: "Agentes de IA expertos en mercado inmobiliario que te ayudarán a tomar mejores decisiones"
+      description: "Templates y workflows para implementación inmediata."
     },
     {
       icon: <LightBulbIcon className="w-8 h-8" />,
-      title: "Casos de uso",
-      description: "Conoce todas las posibilidades que tienes de implementar IA en tu negocio"
+      title: "Cómo crear tu primera automatización inmobiliaria en 10 minutos",
+      description: "No es solo teoría: vas a ver cómo se hace, paso a paso. Y lo mejor: ¡vas a hacerlo tú también!"
+    },
+    {
+      icon: <RocketLaunchIcon className="w-8 h-8" />,
+      title: "Bonus: Agentes IA listos para usar!",
+      description: "Agentes de IA expertos en mercado inmobiliario que te ayudarán a tomar mejores decisiones."
     }
   ];
 
@@ -125,7 +125,7 @@ function App() {
 
           <p className="text-xl mb-8 max-w-3xl mx-auto">
             ¿Sabías que la Inteligencia Artificial ya está transformando el mercado inmobiliario? 
-            No te quedes atrás - únete a los líderes que están revolucionando la industria.
+            Aprende a integrar herramientas de IA para optimizar tus ventas y destacarte en el mercado inmobiliario.
           </p>
 
           <div className="mb-12">
