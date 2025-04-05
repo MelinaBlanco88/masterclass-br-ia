@@ -62,7 +62,7 @@ function App() {
     {
       name: "Cristian Pedrero",
       role: "Ingeniero y emprendedor",
-      image: "../public/cristian.jpg",
+      image: "../cristian.jpg",
       text: "La automatización con IA ha revolucionado mi negocio. Ahorro más de 15 horas semanales en tareas administrativas.",
     },
     {
