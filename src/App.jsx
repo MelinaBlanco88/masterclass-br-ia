@@ -62,7 +62,7 @@ function App() {
     {
       name: "Cristian Pedrero",
       role: "Ingeniero y emprendedor",
-      image: "https://instagram.fmex22-1.fna.fbcdn.net/v/t51.2885-19/425392216_802500438381892_7219168687545776258_n.jpg?_nc_ht=instagram.fmex22-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QHYvojOLKbKl1qkHrutHE6J5uW3yTs0qeprZYJIKLMj5lL3rHya6Dy9gHJQPpjU7KMzqtHW9EQGf-FYdWqzE_mF&_nc_ohc=4MPn29AaCuIQ7kNvwH-jCs_&_nc_gid=t2NaC3eIYsDuu4XaO956Fw&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AYExKoqas0JyC2QqhAu97wj-rge_UuymGtA2QzHtRU3E6Q&oe=67F66559&_nc_sid=7a9f4b",
+      image: "../public/cristian.jpg",
       text: "La automatización con IA ha revolucionado mi negocio. Ahorro más de 15 horas semanales en tareas administrativas.",
     },
     {
