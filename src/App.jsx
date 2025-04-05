@@ -89,12 +89,24 @@ function App() {
       a: "Sí, todos los participantes recibirán acceso a la grabación del masterclass por 30 días, permitiéndote repasar el contenido las veces que necesites."
     },
     {
-      q: "¿Qué necesito para participar?",
+      q: "¿Qué necesito para unirme?",
       a: "Solo necesitas una computadora con conexión a internet y la aplicación Zoom instalada. Todo el material adicional será proporcionado durante el masterclass."
     },
     {
-      q: "¿Habrá soporte después del masterclass?",
-      a: "Sí, tendrás acceso a un grupo exclusivo de WhatsApp por 30 días donde podrás hacer todas tus consultas y recibir apoyo directo."
+      q: "¿Qué voy a aprender exactamente?",
+      a: "Vas a aprender a usar la inteligencia artificial para automatizar tareas repetitivas, generar contenido, responder más rápido a tus clientes y hacer crecer tu negocio inmobiliario con herramientas concretas."
+    },
+    {
+      q: "¿Cuánto dura la masterclass?",
+      a: "La masterclass tiene una duración de 90 minutos."
+    },
+    {
+      q: "¿Esto me sirve si recién estoy empezando en el mundo inmobiliario?",
+      a: "Sí, totalmente. De hecho, cuanto antes empieces a usar IA, mejor ventaja vas a tener frente a tu competencia."
+    },
+    {
+      q: "¿Qué pasa si tengo dudas después de la masterclass?",
+      a: "Tendrás acceso a una comunidad donde podrás compartir tus dudas, aprender de otros y seguir creciendo con nosotros."
     }
   ];
 
@@ -185,7 +197,7 @@ function App() {
 
           </div>
           <div className="relative max-w-4xl mx-auto aspect-video rounded-2xl overflow-hidden shadow-2xl">
-            <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1700516598140-c47b815c2e8e')] bg-cover bg-center">
+            <div className="absolute inset-0 bg-[url('../public/preview.png')] bg-cover bg-center">
               <div className="absolute inset-0 bg-black/50 backdrop-blur-sm" />
               <div className="absolute inset-0 flex items-center justify-center">
                 <button
@@ -211,7 +223,7 @@ function App() {
               </button>
               <iframe
                 className="w-full h-full rounded-lg"
-                src="https://www.youtube.com/embed/your-video-id"
+                src="https://www.youtube.com/embed/wyGDvS8k104"
                 title="Preview del Masterclass"
                 frameBorder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
