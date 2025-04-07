@@ -145,7 +145,7 @@ function App() {
             <p className="text-2xl mb-2">🕗 8:00 PM (Hora de México)</p>
             <p className="text-2xl">💻 Vía Zoom</p>
           </div>
-
+ 
           <div className="bg-white/10 backdrop-blur-lg rounded-2xl p-8 mb-12 max-w-2xl mx-auto">
             <h3 className="text-2xl mb-4">Oferta Especial Termina En:</h3>
             <Countdown 
