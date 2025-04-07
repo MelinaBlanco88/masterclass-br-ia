@@ -1,11 +1,12 @@
 :root {
-  --primary-color: #C1ED0B;
+  --primary-color: #1FC132;
   --secondary-color: #2A2A2A;
   --accent-color: #FF3366;
   --text-color: #333333;
   --background-color: #FFFFFF;
   font-family: 'Outfit', sans-serif;
 }
+
 
 * {
   margin: 0;
