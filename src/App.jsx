@@ -167,14 +167,14 @@ function App() {
               )}
             />
             <div className="mt-8">
-              <p className="text-2xl line-through opacity-60">$30 USD</p>
-              <p className="text-4xl font-bold text-[#C1ED0B]">$15 USD</p>
+              <p className="text-2xl line-through opacity-60">$50 USD</p>
+              <p className="text-4xl font-bold text-[#C1ED0B]">$25 USD</p>
               <p className="text-lg mt-2">¡50% de descuento hasta el 8 de Abril de 2025!</p>
             </div>
           </div>
 
           <a 
-            href="https://buy.stripe.com/eVa2aK12U2XA5wcaEE"
+            href="https://buy.stripe.com/7sIeXw7riaq26Ag3cd"
             className="inline-block bg-gradient-to-r from-[#C1ED0B] to-[#9333ea] text-black font-bold text-xl px-12 py-6 rounded-full transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-[#C1ED0B]/50"
           >
             ¡RESERVA TU LUGAR AHORA! 🚀
@@ -259,7 +259,7 @@ function App() {
 
           <div className="text-center mt-16">
             <a 
-              href="https://buy.stripe.com/eVa2aK12U2XA5wcaEE"
+              href="https://buy.stripe.com/7sIeXw7riaq26Ag3cd"
               className="inline-block bg-[#C1ED0B] text-black font-bold text-xl px-12 py-6 rounded-full transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-[#C1ED0B]/50"
             >
               ¡Asegura Tu Lugar Ahora! 🎯
@@ -432,7 +432,7 @@ function App() {
 
           <div className="text-center mt-16">
             <a 
-              href="https://buy.stripe.com/eVa2aK12U2XA5wcaEE"
+              href="https://buy.stripe.com/7sIeXw7riaq26Ag3cd"
               className="inline-block bg-gradient-to-r from-[#9333ea] to-[#C1ED0B] text-white font-bold text-xl px-12 py-6 rounded-full transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-[#9333ea]/50"
             >
               ¡Únete al Futuro del Real Estate! 🌟
