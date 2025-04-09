@@ -14,7 +14,7 @@ import {
   PlayCircleIcon,
 } from '@heroicons/react/24/outline';
 
-const discountEndDate = new Date('2025-04-08T23:59:59');
+const discountEndDate = new Date('2025-04-10T20:00:00');
 
 function App() {
   const [heroRef, heroInView] = useInView({
@@ -147,7 +147,7 @@ function App() {
           </div>
  
           <div className="bg-white/10 backdrop-blur-lg rounded-2xl p-8 mb-12 max-w-2xl mx-auto">
-            <h3 className="text-2xl mb-4">Oferta Especial Termina En:</h3>
+            <h3 className="text-2xl mb-4">Esta MasterClass comienza en:</h3>
             <Countdown 
               date={discountEndDate}
               renderer={({ days, hours, minutes, seconds }) => (
@@ -167,9 +167,7 @@ function App() {
               )}
             />
             <div className="mt-8">
-              <p className="text-2xl line-through opacity-60">$50 USD</p>
               <p className="text-4xl font-bold text-[#C1ED0B]">$25 USD</p>
-              <p className="text-lg mt-2">¡50% de descuento hasta el 8 de Abril de 2025!</p>
             </div>
           </div>
 
