@@ -168,6 +168,7 @@ function App() {
             />
             <div className="mt-8">
               <p className="text-4xl font-bold text-[#C1ED0B]">$25 USD</p>
+              <p className="text-lg mt-2">Solicita un código de descuento <a href='wa.link/yso3wi' target='_blank'><b>aquí</b></a></p>
             </div>
           </div>
 
