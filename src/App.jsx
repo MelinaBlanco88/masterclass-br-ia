@@ -14,7 +14,7 @@ import {
   PlayCircleIcon,
 } from '@heroicons/react/24/outline';
 
-const discountEndDate = new Date('2025-04-10T20:00:00');
+const discountEndDate = new Date('2025-05-06T19:00:00');
 
 function App() {
   const [heroRef, heroInView] = useInView({
@@ -72,11 +72,11 @@ function App() {
       text: "Después del masterclass, implementamos ChatGPT en nuestro equipo y las respuestas a leads mejoraron un 300%.",
     },
     {
-      name: "Roberto Méndez",
-      role: "Broker Independiente",
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200",
-      text: "La metodología de análisis predictivo me ayudó a identificar oportunidades que antes pasaba por alto.",
-    }
+      name: "Edi obed Vasquez ortiz",
+      role: "Aprendiz",
+      image: "https://assets.skool.com/f/5a3aef782d86473a8d3072473f316871/7ea666e2822c409c9f80804019b0bcb72cd927fc9f2247efbe82081401cb8bae-sm.jpg",
+      text: "Me dio mucha alegría ver como con ChatGPT puedes lograr ahorrar tiempo. Es una maravilla, con solo decirle a la IA como lo quieres y que le puede agregar.",
+    },
   ];
 
   const faqs = [
@@ -141,8 +141,8 @@ function App() {
           </p>
 
           <div className="mb-12">
-            <p className="text-2xl mb-2">📅 Jueves 10 de Abril</p>
-            <p className="text-2xl mb-2">🕗 8:00 PM (Hora de México)</p>
+            <p className="text-2xl mb-2">📅 Martes 6 de Mayo</p>
+            <p className="text-2xl mb-2">🕗 7:00 PM (Hora de México)</p>
             <p className="text-2xl">💻 Vía Zoom</p>
           </div>
  
@@ -166,10 +166,16 @@ function App() {
                 </div>
               )}
             />
+            
+            {/* 
             <div className="mt-8">
               <p className="text-4xl font-bold text-[#C1ED0B]">$25 USD</p>
-              <p className="text-lg mt-2">Solicita un código de descuento <a href='http://wa.link/yso3wi' target='_blank'><b>aquí</b></a></p>
+              <p className="text-lg mt-2">
+                Solicita un código de descuento <a href="http://wa.link/yso3wi" target="_blank" rel="noopener noreferrer"><b>aquí</b></a>
+              </p>
             </div>
+            */}
+
           </div>
 
           <a 
