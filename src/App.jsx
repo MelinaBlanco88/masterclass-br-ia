@@ -179,7 +179,7 @@ function App() {
           </div>
 
           <a 
-            href="https://buy.stripe.com/7sIeXw7riaq26Ag3cd"
+            href="https://us02web.zoom.us/webinar/register/4717019827412/WN_XOk2YxXhR9y4rS2kAuBWNg"
             className="inline-block bg-gradient-to-r from-[#C1ED0B] to-[#9333ea] text-black font-bold text-xl px-12 py-6 rounded-full transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-[#C1ED0B]/50"
           >
             ¡RESERVA TU LUGAR AHORA! 🚀
@@ -264,7 +264,7 @@ function App() {
 
           <div className="text-center mt-16">
             <a 
-              href="https://buy.stripe.com/7sIeXw7riaq26Ag3cd"
+              href="https://us02web.zoom.us/webinar/register/4717019827412/WN_XOk2YxXhR9y4rS2kAuBWNg"
               className="inline-block bg-[#C1ED0B] text-black font-bold text-xl px-12 py-6 rounded-full transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-[#C1ED0B]/50"
             >
               ¡Asegura Tu Lugar Ahora! 🎯
@@ -437,7 +437,7 @@ function App() {
 
           <div className="text-center mt-16">
             <a 
-              href="https://buy.stripe.com/7sIeXw7riaq26Ag3cd"
+              href="https://us02web.zoom.us/webinar/register/4717019827412/WN_XOk2YxXhR9y4rS2kAuBWNg"
               className="inline-block bg-gradient-to-r from-[#9333ea] to-[#C1ED0B] text-white font-bold text-xl px-12 py-6 rounded-full transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-[#9333ea]/50"
             >
               ¡Únete al Futuro del Real Estate! 🌟
