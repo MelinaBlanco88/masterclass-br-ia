@@ -101,7 +101,7 @@ function App() {
       a: "La masterclass tiene una duración de 90 minutos."
     },
     {
-      q: "¿Esto me sirve si recién estoy empezando en el mundo inmobiliario?",
+      q: "¿Esto me sirve si recién estoy empezando?",
       a: "Sí, totalmente. De hecho, cuanto antes empieces a usar IA, mejor ventaja vas a tener frente a tu competencia."
     },
     {
@@ -128,7 +128,7 @@ function App() {
           className="container mx-auto px-4 text-center relative z-10"
         >
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-[#C1ED0B] to-[#9333ea] text-transparent bg-clip-text">
-            Domina la IA en el Mundo Inmobiliario
+            Domina la IA para tu negocio
           </h1>
           
           <h2 className="text-2xl md:text-4xl mb-8 text-[#C1ED0B]">
@@ -136,8 +136,8 @@ function App() {
           </h2>
 
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            ¿Sabías que la Inteligencia Artificial ya está transformando el mercado inmobiliario? 
-            Aprende a integrar herramientas de IA para optimizar tus ventas y destacarte en el mercado inmobiliario.
+            ¿Sabías que la Inteligencia Artificial ya está transformando el mercado? 
+            Aprende a integrar herramientas de IA para optimizar tus ventas y ahorrar tiempo en tu negocio y en tu día a día.
           </p>
 
           <div className="mb-12">
@@ -192,10 +192,10 @@ function App() {
         <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto text-center">
             <h2 className="text-4xl md:text-5xl font-bold mb-8 bg-gradient-to-r from-[#C1ED0B] to-[#9333ea] text-transparent bg-clip-text">
-              La Revolución de la IA en el Sector Inmobiliario
+              La Revolución de la IA 
             </h2>
             <p className="text-xl text-gray-300 mb-12">
-              La inteligencia artificial está transformando la manera en que operamos en el mercado inmobiliario. 
+              La inteligencia artificial está transformando la manera en que trabajamos. 
               Desde la automatización de tareas hasta la predicción de tendencias del mercado, 
               la IA es la herramienta que necesitas para destacarte en la industria.
             </p>
@@ -440,7 +440,7 @@ function App() {
               href="https://us02web.zoom.us/webinar/register/4717019827412/WN_XOk2YxXhR9y4rS2kAuBWNg"
               className="inline-block bg-gradient-to-r from-[#9333ea] to-[#C1ED0B] text-white font-bold text-xl px-12 py-6 rounded-full transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-[#9333ea]/50"
             >
-              ¡Únete al Futuro del Real Estate! 🌟
+              ¡Únete al Futuro! 🌟
             </a>
           </div>
         </div>
