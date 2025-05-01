@@ -142,7 +142,14 @@ function App() {
 
           <div className="mb-12">
             <p className="text-2xl mb-2">📅 Martes 6 de Mayo</p>
-            <p className="text-2xl mb-2">🕗 7:00 PM (Hora de México)</p>
+            <div className="timezones-container">
+              <p className="text-2xl mb-2">🇲🇽 7:00 PM (México)</p>
+              <p className="text-2xl mb-2">🇨🇴🇵🇪 8:00 PM (Colombia / Perú)</p>
+              <p className="text-2xl mb-2">🇺🇸 8:00 PM (Estados Unidos – ET)</p>
+              <p className="text-2xl mb-2">🇦🇷🇨🇱 9:00 PM (Argentina / Chile)</p>
+            </div>
+
+
             <p className="text-2xl">💻 Vía Zoom</p>
           </div>
  
