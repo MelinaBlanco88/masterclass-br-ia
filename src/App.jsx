@@ -14,7 +14,7 @@ import {
   PlayCircleIcon,
 } from '@heroicons/react/24/outline';
 
-const discountEndDate = new Date('2025-05-06T19:00:00');
+const discountEndDate = new Date('2025-06-09T19:00:00');
 
 function App() {
   const [heroRef, heroInView] = useInView({
@@ -33,7 +33,7 @@ function App() {
     },
     {
       icon: <ClockIcon className="w-8 h-8" />,
-      title: "Las herramientas exactas que están revolucionando el mercado",
+      title: "Las herramientas exactas que están revolucionando el mercado del Real Estate",
       description: "Te mostraré las mejores herramientas de automatización, prompts y flujos listos para copiar y pegar. Menos trabajo, más resultados."
     },
     {
@@ -128,20 +128,20 @@ function App() {
           className="container mx-auto px-4 text-center relative z-10"
         >
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-[#C1ED0B] to-[#9333ea] text-transparent bg-clip-text">
-            Domina la IA para tu negocio
+            Masterclass IA aplicada al Real Estate
           </h1>
           
           <h2 className="text-2xl md:text-4xl mb-8 text-[#C1ED0B]">
-            Transforma Tu Negocio con Automatización y ChatGPT
+            El cerebro que vende por ti
           </h2>
 
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            ¿Sabías que la Inteligencia Artificial ya está transformando el mercado? 
+            ¿Sabías que la Inteligencia Artificial ya está transformando el mercado inmobiliario? 
             Aprende a integrar herramientas de IA para optimizar tus ventas y ahorrar tiempo en tu negocio y en tu día a día.
           </p>
 
           <div className="mb-12">
-            <p className="text-2xl mb-2">📅 Martes 6 de Mayo</p>
+            <p className="text-2xl mb-2">📅 Lunes 9 de Junio</p>
             <div className="timezones-container">
               <p className="text-2xl mb-2">🇲🇽 7:00 PM (México)</p>
               <p className="text-2xl mb-2">🇨🇴🇵🇪 8:00 PM (Colombia / Perú)</p>
@@ -186,7 +186,7 @@ function App() {
           </div>
 
           <a 
-            href="https://us02web.zoom.us/webinar/register/4717019827412/WN_XOk2YxXhR9y4rS2kAuBWNg"
+            href="https://q9br2s0opxo.typeform.com/to/V5dAiGnk"
             className="inline-block bg-gradient-to-r from-[#C1ED0B] to-[#9333ea] text-black font-bold text-xl px-12 py-6 rounded-full transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-[#C1ED0B]/50"
           >
             ¡RESERVA TU LUGAR AHORA! 🚀
@@ -271,7 +271,7 @@ function App() {
 
           <div className="text-center mt-16">
             <a 
-              href="https://us02web.zoom.us/webinar/register/4717019827412/WN_XOk2YxXhR9y4rS2kAuBWNg"
+              href="https://q9br2s0opxo.typeform.com/to/V5dAiGnk"
               className="inline-block bg-[#C1ED0B] text-black font-bold text-xl px-12 py-6 rounded-full transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-[#C1ED0B]/50"
             >
               ¡Asegura Tu Lugar Ahora! 🎯
@@ -444,7 +444,7 @@ function App() {
 
           <div className="text-center mt-16">
             <a 
-              href="https://us02web.zoom.us/webinar/register/4717019827412/WN_XOk2YxXhR9y4rS2kAuBWNg"
+              href="https://q9br2s0opxo.typeform.com/to/V5dAiGnk"
               className="inline-block bg-gradient-to-r from-[#9333ea] to-[#C1ED0B] text-white font-bold text-xl px-12 py-6 rounded-full transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-[#9333ea]/50"
             >
               ¡Únete al Futuro! 🌟
