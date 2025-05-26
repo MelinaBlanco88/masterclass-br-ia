@@ -128,7 +128,11 @@ function App() {
           className="container mx-auto px-4 text-center relative z-10"
         >
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-[#C1ED0B] to-[#9333ea] text-transparent bg-clip-text">
-            Masterclass IA aplicada al Real Estate
+            Masterclass IA
+          </h1>
+
+          <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-[#C1ED0B] to-[#9333ea] text-transparent bg-clip-text">
+            Aplicada al Real Estate
           </h1>
           
           <h2 className="text-2xl md:text-4xl mb-8 text-[#C1ED0B]">
