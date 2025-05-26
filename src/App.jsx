@@ -203,7 +203,7 @@ function App() {
         <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto text-center">
             <h2 className="text-4xl md:text-5xl font-bold mb-8 bg-gradient-to-r from-[#C1ED0B] to-[#9333ea] text-transparent bg-clip-text">
-              La Revolución de la IA 
+              La Revolución de la IA en el mundo inmobiliario
             </h2>
             <p className="text-xl text-gray-300 mb-12">
               La inteligencia artificial está transformando la manera en que trabajamos. 
