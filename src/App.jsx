@@ -128,7 +128,7 @@ function App() {
           className="container mx-auto px-4 text-center relative z-10"
         >
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-[#C1ED0B] to-[#9333ea] text-transparent bg-clip-text">
-            Masterclass IA
+            ¡GRATIS! Masterclass IA
           </h1>
 
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-[#C1ED0B] to-[#9333ea] text-transparent bg-clip-text">
@@ -193,7 +193,7 @@ function App() {
             href="https://q9br2s0opxo.typeform.com/to/V5dAiGnk"
             className="inline-block bg-gradient-to-r from-[#C1ED0B] to-[#9333ea] text-black font-bold text-xl px-12 py-6 rounded-full transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-[#C1ED0B]/50"
           >
-            ¡RESERVA TU LUGAR AHORA! 🚀
+            ¡REGÍSTRATE GRATIS! 🚀
           </a>
         </motion.div>
       </section>
@@ -278,7 +278,7 @@ function App() {
               href="https://q9br2s0opxo.typeform.com/to/V5dAiGnk"
               className="inline-block bg-[#C1ED0B] text-black font-bold text-xl px-12 py-6 rounded-full transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-[#C1ED0B]/50"
             >
-              ¡Asegura Tu Lugar Ahora! 🎯
+              ¡Accede GRATIS! 🎯
             </a>
           </div>
         </div>
@@ -456,7 +456,7 @@ function App() {
           </div>
         </div>
       </section>
-
+    {/*
       <a 
         href="https://wa.me/+525574766664" 
         className="fixed bottom-8 right-8 bg-[#25D366] text-white px-6 py-4 rounded-full flex items-center gap-2 hover:scale-105 transition-all duration-300 shadow-lg z-50"
@@ -470,6 +470,7 @@ function App() {
         />
         ¿Tienes preguntas?
       </a>
+      */}
     </div>
   );
 }
