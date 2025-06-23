@@ -14,7 +14,7 @@ import {
   PlayCircleIcon,
 } from '@heroicons/react/24/outline';
 
-const discountEndDate = new Date('2025-06-09T19:00:00');
+const discountEndDate = new Date('2025-07-02T20:00:00');
 
 function App() {
   const [heroRef, heroInView] = useInView({
@@ -145,12 +145,12 @@ function App() {
           </p>
 
           <div className="mb-12">
-            <p className="text-2xl mb-2">📅 Lunes 9 de Junio</p>
+            <p className="text-2xl mb-2">📅 Miercoles 2 de Julio</p>
             <div className="timezones-container">
-              <p className="text-2xl mb-2">🇲🇽 7:00 PM (México)</p>
-              <p className="text-2xl mb-2">🇨🇴🇵🇪 8:00 PM (Colombia / Perú)</p>
-              <p className="text-2xl mb-2">🇺🇸 8:00 PM (Estados Unidos – ET)</p>
-              <p className="text-2xl mb-2">🇦🇷🇨🇱 9:00 PM (Argentina / Chile)</p>
+              <p className="text-2xl mb-2">🇲🇽 8:00 PM (México)</p>
+              <p className="text-2xl mb-2">🇨🇴🇵🇪 9:00 PM (Colombia / Perú)</p>
+              <p className="text-2xl mb-2">🇺🇸 9:00 PM (Estados Unidos – ET)</p>
+              <p className="text-2xl mb-2">🇦🇷🇨 11:00 PM (Argentina)</p>
             </div>
 
 
@@ -190,7 +190,7 @@ function App() {
           </div>
 
           <a 
-            href="https://q9br2s0opxo.typeform.com/to/V5dAiGnk"
+            href="https://tally.so/r/mVXWe6"
             className="inline-block bg-gradient-to-r from-[#C1ED0B] to-[#9333ea] text-black font-bold text-xl px-12 py-6 rounded-full transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-[#C1ED0B]/50"
           >
             ¡REGÍSTRATE GRATIS! 🚀
@@ -275,7 +275,7 @@ function App() {
 
           <div className="text-center mt-16">
             <a 
-              href="https://q9br2s0opxo.typeform.com/to/V5dAiGnk"
+              href="https://tally.so/r/mVXWe6"
               className="inline-block bg-[#C1ED0B] text-black font-bold text-xl px-12 py-6 rounded-full transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-[#C1ED0B]/50"
             >
               ¡Accede GRATIS! 🎯
@@ -448,7 +448,7 @@ function App() {
 
           <div className="text-center mt-16">
             <a 
-              href="https://q9br2s0opxo.typeform.com/to/V5dAiGnk"
+              href="https://tally.so/r/mVXWe6"
               className="inline-block bg-gradient-to-r from-[#9333ea] to-[#C1ED0B] text-white font-bold text-xl px-12 py-6 rounded-full transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-[#9333ea]/50"
             >
               ¡Únete al Futuro! 🌟
