@@ -376,7 +376,7 @@ function App() {
                 className="w-48 h-48 rounded-full mx-auto mb-6 object-cover"
               />
               <h3 className="text-2xl font-bold text-center mb-2">Mariana Padilla</h3>
-              <h4 className="text-[#C1ED0B] text-center mb-4">Empresaria y conferencista internacional</h4>
+              <h4 className="text-[#C1ED0B] text-center mb-4">Inversionista de Bienes Raíces, empresaria y conferencista internacional</h4>
               <p className="text-gray-300">
                 Reconocida <b>empresaria y conferencista internacional</b>, especialista en inversiones inmobiliarias, inteligencia empresarial y financiera. Es creadora de la metodología TOPP, diseñada para potenciar la toma de decisiones estratégicas. 
                 Ha compartido su experiencia en escenarios de países como Dubái, Panamá, Colombia, Perú, Estados Unidos y México, así como en universidades de prestigio como el TEC de Monterrey, Ibero y Anáhuac.
