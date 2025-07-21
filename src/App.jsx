@@ -145,7 +145,7 @@ function App() {
           </p>
 
           <div className="mb-12">
-            <p className="text-2xl mb-2">📅 Miercoles 15 de Julio</p>
+            <p className="text-2xl mb-2">📅 Miercoles 30 de Julio</p>
             <div className="timezones-container">
               <p className="text-2xl mb-2">🇲🇽 8:00 PM (México)</p>
               <p className="text-2xl mb-2">🇨🇴🇵🇪 9:00 PM (Colombia / Perú)</p>
@@ -190,7 +190,7 @@ function App() {
           </div>
 
           <a 
-            href="https://tally.so/r/mK2kQg"
+            href="https://tally.so/r/mBJqk4"
             className="inline-block bg-gradient-to-r from-[#C1ED0B] to-[#9333ea] text-black font-bold text-xl px-12 py-6 rounded-full transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-[#C1ED0B]/50"
           >
             ¡REGÍSTRATE GRATIS! 🚀
@@ -275,7 +275,7 @@ function App() {
 
           <div className="text-center mt-16">
             <a 
-              href="https://tally.so/r/mK2kQg"
+              href="https://tally.so/r/mBJqk4"
               className="inline-block bg-[#C1ED0B] text-black font-bold text-xl px-12 py-6 rounded-full transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-[#C1ED0B]/50"
             >
               ¡Accede GRATIS! 🎯
@@ -448,7 +448,7 @@ function App() {
 
           <div className="text-center mt-16">
             <a 
-              href="https://tally.so/r/mK2kQg"
+              href="https://tally.so/r/mBJqk4"
               className="inline-block bg-gradient-to-r from-[#9333ea] to-[#C1ED0B] text-white font-bold text-xl px-12 py-6 rounded-full transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-[#9333ea]/50"
             >
               ¡Únete al Futuro! 🌟
