@@ -14,7 +14,7 @@ import {
   PlayCircleIcon,
 } from '@heroicons/react/24/outline';
 
-const discountEndDate = new Date('2025-07-30T20:00:00');
+const discountEndDate = new Date('2025-08-06T20:00:00');
 
 function App() {
   const [heroRef, heroInView] = useInView({
@@ -145,7 +145,7 @@ function App() {
           </p>
 
           <div className="mb-12">
-            <p className="text-2xl mb-2">📅 Miercoles 30 de Julio</p>
+            <p className="text-2xl mb-2">📅 Miercoles 06 de Agosto</p>
             <div className="timezones-container">
               <p className="text-2xl mb-2">🇲🇽 8:00 PM (México)</p>
               <p className="text-2xl mb-2">🇨🇴🇵🇪 9:00 PM (Colombia / Perú)</p>
